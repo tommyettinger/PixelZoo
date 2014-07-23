@@ -1,0 +1,19 @@
+
+OpButtons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sound
+  rotate: false
+  xy: 1, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 63, 1
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
